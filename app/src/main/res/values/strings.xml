@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidBleCentral</string>
+    <string name="select_device">Seletct a Device</string>
+    <string name="scanning">Scanning</string>
+    <string name="ble_not_supported">Ble is not supported</string>
+    <string name="scan">Scan</string>
+    <string name="cancel">Cancel</string>
+    <string name="paired">paired</string>
+</resources>
